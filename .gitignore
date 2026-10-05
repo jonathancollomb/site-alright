@@ -1,0 +1,11 @@
+all-right/.git/
+all-right/.openai/
+all-right-package/
+alright-update-package/
+*.tar.gz
+check-all-right.cjs
+preview-all-right.cjs
+.env
+.env.*
+node_modules/
+all-right/
